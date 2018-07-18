@@ -1,2 +1,45 @@
-# financial-statement-summarization
-This column includes all the bookmark of financial statement summarization
+### financial-statement
+
+#### Income Statement
+- report then revenues and expenses over a period of time
+- includes: other comprehensive income,revenues,expenses,gains,losses
+- net income = revenues -ordinary expenses + other income -other expense +gains-losses
+
+- recognized revenue(IASB): 
+	1. transferred risk and reward
+	2. revenues and cost can be measured
+	3. probable flow of  benefits
+	4. no continuing control over goods sold
+- (FASB)
+	realizable earned
+	1. arrangement between the buyer and seller
+	2. product has been delivered or service has been rendered
+	3. determined price
+	4. sure about collecting money
+
+- when long-term contract reliable estimated,
+percentage-of-completion method (both IFRS aand U.S GAAP)
+- when not
+- cost are expnese,profit at completion (IFRS)
+- revenue,expense,profit at completion(GAAP)
+cash flow are the same
+
+- when installment sales is certain collectibility
+normal revenue recognaztion criteria
+- not be reasonable estimate 
+installment method
+- highly uncertain
+cost recovery method
+
+
+
+
+
+
+
+
+
+
+
+
+
