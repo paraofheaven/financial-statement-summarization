@@ -25,11 +25,28 @@ percentage-of-completion method (both IFRS aand U.S GAAP)
 cash flow are the same
 
 - when installment sales is certain collectibility
-normal revenue recognaztion criteria
+	normal revenue recognaztion criteria
 - not be reasonable estimate 
-installment method
+	installment method
 - highly uncertain
-cost recovery method
+	cost recovery method
+
+inventory expense recognition
+first-in,first-out FIFO 
+last-in,first-out LIFO	GAAP NOT LFRS	
+weighted average cost 
+
+beginning inventory 
++cost of goods purchase
+-----------------------
+cost of goods available for sale
+-ending inventory 
+-----------------------
+cost of goods sold
+
+SL depreciation expense = (cost-residual value)/useful life
+Accelerated depreciation method
+
 
 
 
