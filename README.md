@@ -46,10 +46,16 @@ cost of goods sold
 
 SL depreciation expense = (cost-residual value)/useful life
 Accelerated depreciation method
+declining balance method
+	DDB depreciation = (2/useful life)(cost -accumulated depreciation)
+	the differtial is the accumulative depreciation subtracted
 
+firms disclose their accounting policies and significant estimates in the financial statement footnotes and in the management discussion and analysis (MD&A)
 
-
-
+Non-Recurring items
+	- Discontinued operations
+	- Unusual or infrequently items
+	- ExtraOrdinary item(no longer to remenber because of abandon)
 
 
 
