@@ -57,6 +57,18 @@ Non-Recurring items
 	- Unusual or infrequently items
 	- ExtraOrdinary item(no longer to remenber because of abandon)
 
+EPS:Earning per 
+simple capital structure:
+no potentially dilutive securities
+only common stock,nonconvertible debt,nonconvertible perferred stock
+complex capital struture:
+potencially dilutive securities
+basic EPS: (net income -perferred dividends)/weighted average number of common shares outstanding
+  where weighted average = (nums of shares * weighted years)/12 ,july 1 is 1/2,april 1 is 1/3
+
+
+
+
 
 
 
