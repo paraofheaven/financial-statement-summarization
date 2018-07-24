@@ -73,8 +73,7 @@ the diluted EPS equation:
 gross profit margin  = gross profit / revenue
 net profit margin = net profit / revenue
 
-
-
+when a company has potentially dilutive securities,it must report diluted EPS.
 
 
 
