@@ -64,7 +64,7 @@ only common stock,nonconvertible debt,nonconvertible perferred stock
 complex capital struture:
 potencially dilutive securities
 basic EPS: (net income -perferred dividends)/weighted average number of common shares outstanding
-  where weighted average = (nums of shares * weighted years)/12 ,july 1 is 1/2,april 1 is 1/3(in exam, inbythe days in fact)
+  where weighted average = (nums of shares * weighted years left)/12 ,july 1 is 1/2,May 1 is 8/12 (12-5+1)/12(in exam, inbythe days in fact)
 reacquired shares are excluded in computation
 the diluted EPS equation:
 	diluted EPS = (net income - preferred divs） + （convertible preferred divs） + （convertible debt interest) × （1-t）/
