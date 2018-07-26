@@ -75,6 +75,10 @@ net profit margin = net profit / revenue
 
 when a company has potentially dilutive securities,it must report diluted EPS.
 
+Q&A:
+Depreciation is included in the computation of operating expense
+while Interest expense is financing cost.
+
 
 
 
