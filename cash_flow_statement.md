@@ -19,4 +19,13 @@ Financing cash flow (CFF):
 	net cash flow creditors = new borrowings - principal amounts repaid
 	net cash flows from shareholders = new equity issued - share repurchases - cash dividends paid
 
+gains need to be subtract fro net income 
+losses be added backto net income
 
+indirect:
+	net income
+	subtract gains or add losses 
+	add back noncash charges,subtract noncash revenue
+		asset acounts increasing ===> subtracted
+		libility accounts increasing ====> added
+	
