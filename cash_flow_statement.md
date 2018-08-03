@@ -28,4 +28,7 @@ indirect:
 	add back noncash charges,subtract noncash revenue
 		asset acounts increasing ===> subtracted
 		libility accounts increasing ====> added
-	
+
+begining bonds payable + bond issued - bonds repaid = ending bonds payable
+begining common stock + stock issued - stock reacquired = ending common stock
+begining dividends payable + dividends declared - devidend paid = ending dividends payable
