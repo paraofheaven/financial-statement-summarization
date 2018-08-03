@@ -32,3 +32,19 @@ indirect:
 begining bonds payable + bond issued - bonds repaid = ending bonds payable
 begining common stock + stock issued - stock reacquired = ending common stock
 begining dividends payable + dividends declared - devidend paid = ending dividends payable
+
+diect:
+	cash collection:
+		net sales
+		subtract the increasing in account receivable,add the increasing in unearning revenue
+	cash payment:
+		COGS
+		add depreciation / amortization
+		reduce COGS by increasing in account payable,add the inventory
+		subtract inventory write-off
+
+
+
+
+
+
