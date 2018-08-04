@@ -43,6 +43,26 @@ diect:
 		add by increasing in account payable,subtract the decreasing inventory
 		subtract inventory write-off
 
+Free cash flow
+
+	FCFF:NI + NCC(dp+am) + int×(1-tax rate) - FCInv(fixed capital invest) - WCinv(working capital invest)
+				CFO + (int × (1-tax rate)) - FCInv 
+	FCFE: CFO - FCInv +net borrowing
+
+performance Ratios:
+	cash flow-to revenue
+	cash return-on assets
+	cash return-on equity
+	cash-to-income
+	cash flow per share
+
+coverage Ratios:
+	debt coverage
+	interest coverage
+	reinvestment
+	debt payment
+	dividend payment
+	investing adn financing
 
 
 
