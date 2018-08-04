@@ -38,9 +38,9 @@ diect:
 		net sales
 		subtract the increasing in account receivable,add the increasing in unearning revenue
 	cash payment:
-		COGS
+		-COGS
 		add depreciation / amortization
-		reduce COGS by increasing in account payable,add the inventory
+		add by increasing in account payable,subtract the decreasing inventory
 		subtract inventory write-off
 
 
