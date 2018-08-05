@@ -7,7 +7,9 @@ Noncash investing and financing activities are not reported in cash flow
 
 US.GAAP:
 	dividends paid ====> financing activities
+	notes paid ========> financing activities
 	interest paid ========>  operating activities
+	dividend received ========> operating 
 	taxes paid =========>  operating activities
 
 the direct method present the firm's operating cash receipts and payments
@@ -63,6 +65,11 @@ coverage Ratios:
 	debt payment
 	dividend payment
 	investing adn financing
+
+
+QA:
+	depreciation not represent a cash flow.but it affect CFO.
+	write-off of obsolete equipment is no cash flow impact
 
 
 
