@@ -40,7 +40,18 @@ liquidity ratios
 	defensive interval = cash + marketable securities + receivables / avg daily expenditures
 
 solvency ratios
+	** debt-to-equity = total debt /total shareholders equity **
+
+	debt-to-capital = total debt / total debt +total shareholders equity
+
+	debt-to-assets = total debt/total assets
+
+	** financial leverage = average total assets / average total equity
+
+	interest coverage = earning before interest and taxes/ interest payments
+
 	
+
 
 
 
