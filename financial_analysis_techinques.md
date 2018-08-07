@@ -13,6 +13,7 @@ Financial ratios:
 	profitability ratios
 	valuation ratios
 
+acivity ratios.
 	receivable turnover = sales / average receivale
 	average collection period = 365 / receivable turnover
 
@@ -27,6 +28,20 @@ Financial ratios:
 	fixed asset turnover = renvenue / avg net fixed assets
 
 	working capital turnover = revenue / avg working capital
+
+liquidity ratios
+	** current = current assets/ current liabilities  **
+	working capital = current assets - currrent liabilities
+
+	quick = cash + marketable securities + receivables / current liabilities
+
+	** cash = cash + marketable securities / current liabilities **
+
+	defensive interval = cash + marketable securities + receivables / avg daily expenditures
+
+solvency ratios
+	
+
 
 
 
