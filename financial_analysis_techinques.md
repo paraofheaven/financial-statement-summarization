@@ -50,8 +50,6 @@ solvency ratios
 
 	interest coverage = earning before interest and taxes/ interest payments
 
-	
-
 
 
 
