@@ -50,8 +50,10 @@ solvency ratios
 
 	interest coverage = earning before interest and taxes/ interest payments
 
+	fixed charge coverage = earning before interest and taxes + lease payment / interest payable + lease payable
 
-
+profitability ratios:
+	** net profit margin = net income /revenue **
 
 
 
