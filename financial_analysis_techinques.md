@@ -54,7 +54,15 @@ solvency ratios
 
 profitability ratios:
 	** net profit margin = net income /revenue **
+		EBIT = opertaing profit = earning before interest and taxes
 
+	** gross profit margin = gross profit / revenue **
+
+	** operating profit margin = EBIT / revenue **
+
+	pretax margin = EBT /revenue
+
+	** return on assets (ROA) = net income /avg total assets **
 
 
 
