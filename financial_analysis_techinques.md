@@ -62,7 +62,9 @@ profitability ratios:
 
 	pretax margin = EBT /revenue
 
-	** return on assets (ROA) = net income /avg total assets **
+	** return on assets (ROA) = net income / avg total assets **
+
+	** return on equity (ROE) = net income / avg total assets **
 
 
 
