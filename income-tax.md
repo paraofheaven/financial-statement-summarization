@@ -8,3 +8,4 @@ an valuation allowance is used to offset deferred tax assets if it is unlikely t
 
 the deferred tax consequences of revaluing an asset upward under IFRS are reported in stockholders' equity
 
+valuation allowance account increasing with the future earning decreasing.
