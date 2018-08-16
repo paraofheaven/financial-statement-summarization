@@ -66,8 +66,7 @@ profitability ratios:
 
 	** return on equity (ROE) = net income / avg total assets **
 
-
-
+	
 
 
 
