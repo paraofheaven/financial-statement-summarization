@@ -15,7 +15,8 @@ Financial ratios:
 
 acivity ratios.
 	receivable turnover = sales / average receivale
-	average collection period = 365 / receivable turnover
+
+	days of sales outstanding = 365 / receivable turnover;
 
 	** inventory turnover = COGS / avg inventory **
 	avg inv processing period = 365 / inventory turnover
@@ -29,9 +30,11 @@ acivity ratios.
 
 	working capital turnover = revenue / avg working capital
 
+	working capital = current assets - currrent liabilities
+
 liquidity ratios
 	** current = current assets/ current liabilities  **
-	working capital = current assets - currrent liabilities
+	
 
 	quick = cash + marketable securities + receivables / current liabilities
 
@@ -66,7 +69,7 @@ profitability ratios:
 
 	** return on equity (ROE) = net income / avg total assets **
 
-	
+
 
 
 
