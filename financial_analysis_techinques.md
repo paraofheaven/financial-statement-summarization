@@ -69,10 +69,10 @@ profitability ratios:
 
 	** return on equity (ROE) = net income / avg total assets **
 
+	return on total capital = EBIT / short and long term debt + equity
 
-
-
-
+original DuPont equation:
+return on equity = (net profit margin) (asset turnover) (leverage ratio)
 
 
 
