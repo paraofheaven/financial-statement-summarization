@@ -5,3 +5,4 @@ a large proportion of net income is due to a one-time gain,period's earning are 
 financial reporting is most likely to be decision useful when acounting choices are neutral.
 
 ineffective internal controls are a condition that provides an opportunity for low-quanlity financial reporting.
+
