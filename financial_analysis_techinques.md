@@ -73,6 +73,7 @@ profitability ratios:
 
 original DuPont equation:
 return on equity = (net profit margin) (asset turnover) (leverage ratio)
+								 = ( net income / revenue) ( revenue/avg total assets ) (avg total asset / equity)
 
 
 
