@@ -61,8 +61,6 @@ profitability ratios:
 
 	** gross profit margin = gross profit / revenue **
 
-	
-
 	** operating profit margin = EBIT / revenue **
 
 	pretax margin = EBT /revenue
