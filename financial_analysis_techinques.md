@@ -83,3 +83,5 @@ ROE = (net income / EBT) (EBT/EBIT)(EBIT/revenue)(revenue/avg assets)(avg assets
 
 
 
+
+
