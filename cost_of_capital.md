@@ -6,3 +6,4 @@ if the risk-free rate increase,the cost of debt and equity would both increase,t
 break point = amount of capital the component's cost of capital changes / weighted of the component in the WACC;
 
 the project beta calculated using the pure-play method is not necessarily related in a predictable way to the beta of the firm that is performing the project.
+
