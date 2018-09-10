@@ -13,4 +13,9 @@ open-end mutual funds dont have brokerage cost.with high minimum investment amou
 buyout funds expect majority of investment will pay off,which venture captical not.
 
 hedge funds are not offered for sale to general public.
-hedge funds are less strict than typical investment firm. 
+hedge funds are less strict than typical investment firm.
+
+main source of financial are market risk,credit risk,liquidity risk,solvency risk and settlement risk are non-financial risks.
+
+
+
