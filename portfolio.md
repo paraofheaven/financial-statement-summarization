@@ -23,7 +23,9 @@ zero-variance portfolio can only be constructed if the correlation coefficient b
 
 Risk-averse investors are generally willing to invsest in risky investments,if the return of the investment is sufficient to reward the investor for taking on this risk.
 
+The capital market line(CML) plots return against total risk which is measured by standard deviation of return.
 
+Securities that plot on the SML are expected to earn their equilibrium rate of return,and may have diversification benefits as well.
 
 
 

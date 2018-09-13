@@ -8,4 +8,3 @@ costs that incurred prior to the decision of whether or not to pursue
 a project are sunk costs and should not be used in the NPV calculation.
 
 
-
