@@ -27,11 +27,14 @@ The capital market line(CML) plots return against total risk which is measured b
 
 Securities that plot on the SML are expected to earn their equilibrium rate of return,and may have diversification benefits as well.
 
+return objectives are part of policy statement's objectives,not constraint.
 
+the execution step of the portfolio management process typically begins with a top-down analysis of macroeconomic variables.The investment policy statement is completed during the planning step.Asset class rebalacing is part of the feedback step.
 
+assumption of the CAPM: 
+	all investors who hold risky assets will hold the same portfolio of risky assets.
 
-
-
+write a IPS: establish a target asset allocation strategy.
 
 
 
