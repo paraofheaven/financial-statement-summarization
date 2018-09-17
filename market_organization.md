@@ -7,3 +7,4 @@ Arbitrageurs trade in the same security simultaneously in deifferent markets.
 short position: buying a put. long postion: buying a call
 
 In the case of a buy,the limit buy order price is below th best bid.It will likely not excute until security price decline.
+
