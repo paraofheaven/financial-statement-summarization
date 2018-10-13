@@ -5,3 +5,4 @@ if the required margin is greater than the quoted margin,the credit quality of t
 G-spread: government bond
 I-spread: swap rate
 Z-spread: benchmark yield curve
+
