@@ -8,4 +8,3 @@ the interbank market refers to short-term borrowing and lending among banks of f
 
 repo rate is the percentage difference between the repurchase price and the amount borrowed.
 repo margin or haircut is the percentage difference between the amount borrowed and the value of the collateral(market value)
-
