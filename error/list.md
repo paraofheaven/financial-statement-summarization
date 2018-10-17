@@ -21,6 +21,17 @@ p-value smaller, the stronger the evidence against the null hypothesis,minimize 
 
 Neckline - (Head - Neckline) = Price target.
 
+multivariate normal distribution is defined by n means, n variances, and n × (n − 1)/2 distinct correlations.
+
+confidence interval = Point estimate ± Reliability factor × Standard error. 
+
+The relative strength index (RSI) is a momentum oscillator and provides information on whether or not an asset is overbought or oversold. An RSI greater than 70 indicates that a stock is overbought; an RSI lower than 30 suggests that a stock is oversold.
+
+The Mann–Whitney U-test is most appropriate for tests of differences in means for nonparametric data such as analysts’ rankings.
+Wilcoxon signed-rank test is most appropriate for testing the significance of a single mean or mean differences (paired comparisons test) for nonparametric data
+a sign test is most appropriate for testing mean differences (paired comparisons test) in nonparametric data.
+	
+
 ########  货币时间价值
 
 EAR = (1 + r)^ m - 1   r = annual interest rate / nums
