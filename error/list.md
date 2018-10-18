@@ -50,3 +50,12 @@ EAY = (1 + HPY)^(365/t) - 1
 
 时间加权收益率 = [(1 + HPR1)(1 + HPR2)(1 + HPR3)]^(1/3) -1
 货币加权收益率 = CF0 + [CF1/(1+IRR)] + [CF2/(1+IRR)^2] + [CF3/(1+IRR)^3)
+
+######## 宏观经济
+
+Real GDP = Nominal GDP × 100/GDP deflator
+
+Real GDP = P × Q
+
+A product’s demand is elastic if demand increases by a greater percentage than the percentage price change when prices are reduced
+
