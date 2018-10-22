@@ -16,3 +16,8 @@ Equity = Share capital+Retained earnings
 Retained earnings = Beginning retained earnings+ Net income − Dividends
 
 goodwill only recognized during acquisitions
+
+The higher the current ratio, the more liquid the company
+
+US GAAP, bank overdrafts are classified as financing cash flow
+
