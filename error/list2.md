@@ -21,3 +21,5 @@ The higher the current ratio, the more liquid the company
 
 US GAAP, bank overdrafts are classified as financing cash flow
 
+amortized cost：held-to-maturity bonds
+fair value ：held for trading, available-for-sale financial assets, derivatives, and non-derivative instruments with fair value exposures hedged by derivatives.
