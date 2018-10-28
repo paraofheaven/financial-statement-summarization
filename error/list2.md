@@ -48,4 +48,4 @@ Retention ratio = 1 - Dividend payout ratio
 
 purchase = COGS + ending inventory - begining inventory
 
-
+Goodwill should be tested for impairment but not amortized.
