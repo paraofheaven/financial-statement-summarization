@@ -49,3 +49,6 @@ Retention ratio = 1 - Dividend payout ratio
 purchase = COGS + ending inventory - begining inventory
 
 Goodwill should be tested for impairment but not amortized.
+
+single-step： operating income.
+When an income statement shows a gross profit subtotal, it is said to use a multi-step format rather than a single-step format
