@@ -52,3 +52,7 @@ Goodwill should be tested for impairment but not amortized.
 
 single-step： operating income.
 When an income statement shows a gross profit subtotal, it is said to use a multi-step format rather than a single-step format
+
+IFRS prohibit extraordinary item.
+
+Reinvestment ratio = CFO / long-term assets
