@@ -56,3 +56,4 @@ When an income statement shows a gross profit subtotal, it is said to use a mult
 IFRS prohibit extraordinary item.
 
 Reinvestment ratio = CFO / long-term assets
+
