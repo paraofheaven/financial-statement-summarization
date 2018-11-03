@@ -61,3 +61,6 @@ rental or lease : use cost model or fair value model under IFRS
 
 Income tax expense = income tax payable + Net change in deffed tax assets and deferred tax liabilities
 
+Fixed charge coverage ratio = EBIT + lease payment / interest payment + lease payment
+
+
