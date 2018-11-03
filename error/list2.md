@@ -64,3 +64,5 @@ Income tax expense = income tax payable + Net change in deffed tax assets and de
 Fixed charge coverage ratio = EBIT + lease payment / interest payment + lease payment
 
 debt to capital ratio = Total debt / (total debt + total equity)
+
+interest coverage ratio = EBIT / interest payment 
