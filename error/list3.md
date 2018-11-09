@@ -22,3 +22,5 @@ M-Squared：standard deviation
 collective opinion: sentiment
 alpha:risk-adjusted return
 beta:amount of systematic risk
+
+enterprise value = EBITDA X EV 
