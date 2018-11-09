@@ -11,3 +11,14 @@ operating breakeven point = Fixed cost of debt/Contribution margin
 
 wrap account vs mutual fund  : wrap account---> assets are owned directly by the individual.
 
+Treynor ratio and Jensen’s alpha : fully diversified ,systematic risk
+M-Squared and Sharpe ratio: not fully diversified ， total risk
+Sharpe ratio： total risk
+M-Squared：standard deviation
+
+
+
+
+collective opinion: sentiment
+alpha:risk-adjusted return
+beta:amount of systematic risk
