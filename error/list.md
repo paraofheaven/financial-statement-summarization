@@ -62,3 +62,4 @@ A product’s demand is elastic if demand increases by a greater percentage than
 
 G-T = S-I-(X-M)
 
+
