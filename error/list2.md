@@ -6,7 +6,6 @@ Adjusting entries are record items as accruals that are not yet reflected in the
 
 management commentary is unaudited
 
-
 Total assets 	 = 	Current assets+Non-current assets
 
 Assets 	 = 	Liabilities+Equity
