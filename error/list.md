@@ -32,6 +32,7 @@ Wilcoxon signed-rank test is most appropriate for testing the significance of a 
 a sign test is most appropriate for testing mean differences (paired comparisons test) in nonparametric data.
 	
 
+	
 ########  货币时间价值
 
 EAR = (1 + r)^ m - 1   r = annual interest rate / nums
