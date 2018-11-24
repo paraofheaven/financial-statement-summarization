@@ -5,4 +5,4 @@
 5,FIFO inventory = LIFO inventory + LIFO reserve
 6,operating breakeven = Fixed cost / contribution margin
 	breakeven = (Fixed cost + interest cost ) / contribution margin
-7,
+7,cash collected from customer = revenue - change in Account receivable
