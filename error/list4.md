@@ -6,4 +6,3 @@
 6,operating breakeven = Fixed cost / contribution margin
 	breakeven = (Fixed cost + interest cost ) / contribution margin
 7,cash collected from customer = revenue - change in Account receivable
-
